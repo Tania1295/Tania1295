@@ -8,7 +8,8 @@ Skills: JS / HTML / CSS / NODE / FIREBASE
 - 📫 How to reach me: www.linkedin.com/in/taniainfanteb 
 - ⚡ Fun fact: I love dogs 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tania1295)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/taniainfanteb/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tania1295)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/taniainfanteb/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania1295&show_icons=true)  
 
